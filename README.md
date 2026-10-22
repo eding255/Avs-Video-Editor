@@ -209,4 +209,4 @@ AVS Video Editor is provided as a full free version with all features and update
 Get started now and experience the power of AVS Video Editor for free! Download today and unleash your creativity!
 
 ---
-**Last updated:** 2026-10-21 21:00:37 UTC
+**Last updated:** 2026-10-22 00:18:25 UTC
